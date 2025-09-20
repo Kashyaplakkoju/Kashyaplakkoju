@@ -46,7 +46,7 @@
 ---
 
 ### 🌐 Connect with Me
-
+- [glakkoju@gitam.in](mailto:glakkoju@gitam.in)  
 - [LinkedIn](https://www.linkedin.com/in/lakkoju-ganapathi-kashyap-67508825a/)
 - [GitHub](https://github.com/Kashyaplakkoju)
 
