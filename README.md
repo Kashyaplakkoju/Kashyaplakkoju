@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kashyap Lakkoju</h1>
-<h3 align="center">A 3rd year Computer Science student passionate about VR, AI, and cybersecurity</h3>
+<h3 align="center">A Final year Computer Science student passionate about VR, AI, and cybersecurity</h3>
 
 ---
 
@@ -41,13 +41,13 @@
 
 - [Real-time-Object-Detection-with-OpenCV-Using-YOLO](https://github.com/Kashyaplakkoju/Real-time-Object-Detection-with-OpenCV-Using-YOLO) – Real-time object detection for security
 - [my-portfolio](https://github.com/Kashyaplakkoju/my-portfolio) – My portfolio website and projects
-- [Git-Project-](https://github.com/Kashyaplakkoju/Git-Project-) – Experiments with Git and version control
+- [Runner-up](https://github.com/Kashyaplakkoju/Runner-up) – Runner_up is an endless runner game built in Unity, inspired by games like Subway Surfers.
 
 ---
 
 ### 🌐 Connect with Me
 
-- [LinkedIn](https://linkedin.com/in/lakkoju-ganapathi-kashyap)
+- [LinkedIn](https://www.linkedin.com/in/lakkoju-ganapathi-kashyap-67508825a/)
 - [GitHub](https://github.com/Kashyaplakkoju)
 
 ---
